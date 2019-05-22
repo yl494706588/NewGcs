@@ -1,0 +1,17 @@
+C:\Users\Lin Yue\Desktop\NG\NG\NG\obj\Debug\NG.csprojAssemblyReference.cache
+C:\Users\Lin Yue\Desktop\NG\NG\NG\obj\Debug\NG.Form1.resources
+C:\Users\Lin Yue\Desktop\NG\NG\NG\obj\Debug\NG.Properties.Resources.resources
+C:\Users\Lin Yue\Desktop\NG\NG\NG\obj\Debug\NG.csproj.GenerateResource.cache
+C:\Users\Lin Yue\Desktop\NG\NG\NG\obj\Debug\NG.csproj.CoreCompileInputs.cache
+C:\Users\Lin Yue\Desktop\NG\NG\NG\bin\Debug\NG.exe.config
+C:\Users\Lin Yue\Desktop\NG\NG\NG\bin\Debug\NG.exe
+C:\Users\Lin Yue\Desktop\NG\NG\NG\bin\Debug\NG.pdb
+C:\Users\Lin Yue\Desktop\NG\NG\NG\obj\Debug\NG.exe
+C:\Users\Lin Yue\Desktop\NG\NG\NG\obj\Debug\NG.pdb
+C:\Users\Lin Yue\Desktop\NG\NG\NG\bin\Debug\GMap.NET.Core.dll
+C:\Users\Lin Yue\Desktop\NG\NG\NG\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Lin Yue\Desktop\NG\NG\NG\bin\Debug\GMap.NET.WindowsForms.pdb
+C:\Users\Lin Yue\Desktop\NG\NG\NG\bin\Debug\GMap.NET.Core.pdb
+C:\Users\Lin Yue\Desktop\NG\NG\NG\obj\Debug\NG.csproj.CopyComplete
+C:\Users\Lin Yue\Desktop\NG\NG\NG\bin\Debug\AttitudeInstrument.dll
+C:\Users\Lin Yue\Desktop\NG\NG\NG\bin\Debug\AttitudeInstrument.pdb

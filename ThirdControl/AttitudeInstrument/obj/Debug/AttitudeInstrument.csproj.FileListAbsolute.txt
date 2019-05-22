@@ -1,0 +1,44 @@
+D:\work\Gmap.net\ThirdControl\AttitudeInstrument\bin\Debug\AttitudeInstrument.dll
+D:\work\Gmap.net\ThirdControl\AttitudeInstrument\bin\Debug\AttitudeInstrument.pdb
+D:\work\Gmap.net\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.csprojResolveAssemblyReference.cache
+D:\work\Gmap.net\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.AirSpeedIndicator.resources
+D:\work\Gmap.net\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.BasicFlightInfo.BasicFlightInfo.resources
+D:\work\Gmap.net\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.PitchAndBank.resources
+D:\work\Gmap.net\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.AltitudeMeter.resources
+D:\work\Gmap.net\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.csproj.GenerateResource.cache
+D:\work\Gmap.net\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.csproj.CoreCompileInputs.cache
+D:\work\Gmap.net\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.dll
+D:\work\Gmap.net\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.pdb
+E:\Mavlink地面站教程\第三章：Mavlink通讯协议\amovplanner(basis)\ThirdControl\AttitudeInstrument\bin\Debug\AttitudeInstrument.dll
+E:\Mavlink地面站教程\第三章：Mavlink通讯协议\amovplanner(basis)\ThirdControl\AttitudeInstrument\bin\Debug\AttitudeInstrument.pdb
+E:\Mavlink地面站教程\第三章：Mavlink通讯协议\amovplanner(basis)\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.csprojResolveAssemblyReference.cache
+E:\Mavlink地面站教程\第三章：Mavlink通讯协议\amovplanner(basis)\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.AirSpeedIndicator.resources
+E:\Mavlink地面站教程\第三章：Mavlink通讯协议\amovplanner(basis)\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.BasicFlightInfo.BasicFlightInfo.resources
+E:\Mavlink地面站教程\第三章：Mavlink通讯协议\amovplanner(basis)\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.PitchAndBank.resources
+E:\Mavlink地面站教程\第三章：Mavlink通讯协议\amovplanner(basis)\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.AltitudeMeter.resources
+E:\Mavlink地面站教程\第三章：Mavlink通讯协议\amovplanner(basis)\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.csproj.GenerateResource.cache
+E:\Mavlink地面站教程\第三章：Mavlink通讯协议\amovplanner(basis)\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.csproj.CoreCompileInputs.cache
+E:\Mavlink地面站教程\第三章：Mavlink通讯协议\amovplanner(basis)\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.dll
+E:\Mavlink地面站教程\第三章：Mavlink通讯协议\amovplanner(basis)\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.pdb
+C:\Users\Lin Yue\Desktop\3-3：地面站数据填充与显示\amovplanner(basis)\ThirdControl\AttitudeInstrument\bin\Debug\AttitudeInstrument.dll
+C:\Users\Lin Yue\Desktop\3-3：地面站数据填充与显示\amovplanner(basis)\ThirdControl\AttitudeInstrument\bin\Debug\AttitudeInstrument.pdb
+C:\Users\Lin Yue\Desktop\3-3：地面站数据填充与显示\amovplanner(basis)\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.csprojAssemblyReference.cache
+C:\Users\Lin Yue\Desktop\3-3：地面站数据填充与显示\amovplanner(basis)\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.AirSpeedIndicator.resources
+C:\Users\Lin Yue\Desktop\3-3：地面站数据填充与显示\amovplanner(basis)\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.BasicFlightInfo.BasicFlightInfo.resources
+C:\Users\Lin Yue\Desktop\3-3：地面站数据填充与显示\amovplanner(basis)\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.PitchAndBank.resources
+C:\Users\Lin Yue\Desktop\3-3：地面站数据填充与显示\amovplanner(basis)\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.AltitudeMeter.resources
+C:\Users\Lin Yue\Desktop\3-3：地面站数据填充与显示\amovplanner(basis)\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.csproj.GenerateResource.cache
+C:\Users\Lin Yue\Desktop\3-3：地面站数据填充与显示\amovplanner(basis)\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.csproj.CoreCompileInputs.cache
+C:\Users\Lin Yue\Desktop\3-3：地面站数据填充与显示\amovplanner(basis)\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.dll
+C:\Users\Lin Yue\Desktop\3-3：地面站数据填充与显示\amovplanner(basis)\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.pdb
+C:\Users\Lin Yue\Desktop\NG\NG\ThirdControl\AttitudeInstrument\bin\Debug\AttitudeInstrument.dll
+C:\Users\Lin Yue\Desktop\NG\NG\ThirdControl\AttitudeInstrument\bin\Debug\AttitudeInstrument.pdb
+C:\Users\Lin Yue\Desktop\NG\NG\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.csprojAssemblyReference.cache
+C:\Users\Lin Yue\Desktop\NG\NG\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.AirSpeedIndicator.resources
+C:\Users\Lin Yue\Desktop\NG\NG\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.BasicFlightInfo.BasicFlightInfo.resources
+C:\Users\Lin Yue\Desktop\NG\NG\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.PitchAndBank.resources
+C:\Users\Lin Yue\Desktop\NG\NG\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.AltitudeMeter.resources
+C:\Users\Lin Yue\Desktop\NG\NG\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.csproj.GenerateResource.cache
+C:\Users\Lin Yue\Desktop\NG\NG\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.csproj.CoreCompileInputs.cache
+C:\Users\Lin Yue\Desktop\NG\NG\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.dll
+C:\Users\Lin Yue\Desktop\NG\NG\ThirdControl\AttitudeInstrument\obj\Debug\AttitudeInstrument.pdb
